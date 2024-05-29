@@ -3,8 +3,8 @@
 ## Requisitos
 1. Tener Python instalado
 2. Tener una conexión MySQL para ejecutar script ubicado en la carpeta assets 
-3. Colocar usuario y password en la config de la app.
-4. Tener el puerto 4000 disponible (Sino, cambiar puerto en archivo app.py al final)
+3. Colocar usuario y password en la config de la app (Al inicio del archivo app.py).
+4. Tener el puerto 4000 disponible
 
 ## Instalar
 1. Crear el ambiente virtual de python en la carpeta con `python -m virtualenv venv`
